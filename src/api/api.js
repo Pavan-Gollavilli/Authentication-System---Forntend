@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://authentication-system---backend.pages.dev/api",
+  baseURL: "https://authentication-system-backend-production.up.railway.app/api",
 });
 
 
